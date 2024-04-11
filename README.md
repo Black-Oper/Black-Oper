@@ -1,5 +1,7 @@
-### Olá 👋! Eu sou o Pedro, estudante de Ciência da Computação!
+## Olá 👋! Eu sou o Pedro, estudante de Ciência da Computação!
 
 - 🌱 Estou estudando Frontend, Backend e UI/UX
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 💬 Possuo conhecimento em HTML, CSS, JavaScript, Java, C e SQL
+- 🔥 Sempre em busca de aprender
+- 🔭 Atualmente à procura de emprego
+##
