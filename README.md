@@ -1,9 +1,9 @@
 ## Olá 👋! Eu sou o Pedro, estudante de Ciência da Computação!
 
-- 🌱 Estou estudando Frontend, Backend e UI/UX
-- 💬 Possuo conhecimento em HTML, CSS, JavaScript, Java, Python, C e SQL
-- 🔥 Sempre em busca de aprender
-- 🔭 Atualmente à procura de emprego
+- 🌱 Estou estudando Frontend, Backend e UI/UX.
+- 💬 Possuo conhecimento em HTML, CSS, JavaScript, Java, Python, C e SQL.
+- 🔥 Sempre em busca de aprender.
+- 🔭 Atualmente à procura de emprego.
 ##
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
