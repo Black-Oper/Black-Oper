@@ -3,7 +3,7 @@
 - 🌱 Estou estudando Frontend, Backend e UI/UX.
 - 💬 Possuo conhecimento em C, C#, Java, JavaScript, Typescript, Python, HTML, CSS, SCSS, SQL, GIT e Angular.
 - 🔥 Sempre em busca de aprender.
-- 🔭 Atualmente à procura de emprego.
+- 🔭 Atualmente à procura de trabalho.
 ##
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
