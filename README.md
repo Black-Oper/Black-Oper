@@ -1,7 +1,7 @@
 ## Olá 👋! Eu sou o Pedro, estudante de Ciência da Computação!
 
 - 🌱 Estou estudando Frontend, Backend e UI/UX.
-- 💬 Possuo conhecimento em HTML, CSS, JavaScript, Java, Python, C e SQL.
+- 💬 Possuo conhecimento em C, C#, Java, JavaScript, Typescript, Python, HTML, CSS, SCSS, SQL, GIT e Angular.
 - 🔥 Sempre em busca de aprender.
 - 🔭 Atualmente à procura de emprego.
 ##
