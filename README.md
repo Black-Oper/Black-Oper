@@ -1,6 +1,6 @@
 ## Olá 👋! Eu sou o Pedro, estudante de Ciência da Computação!
 
-- 🌱 Estou estudando Frontend, Backend e UI/UX.
+- 🌱 Estou estudando Frontend, Backend, Criptografia e Machine Learning.
 - 💬 Minhas linguagens e frameworks mais utilizados: Assembly, Rust, C, C#, Java, JavaScript, TypeScript,Python, HTML, CSS, SCSS, GIT, Angular e React.
 - 🔥 Sempre em busca de aprender.
 - 🔭 Atualmente à procura de trabalho.
