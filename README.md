@@ -12,8 +12,11 @@ Bacharelando em Ciência da Computação pela Universidade Positivo.
 #### Tecnologias
 
 **Linguagens:** Java · C# · Python · Rust · TypeScript · JavaScript · C · Assembly
+
 **Frontend:** React · Next.js · Angular · Tailwind CSS
+
 **Backend:** Spring Boot · .NET · PostgreSQL · REST APIs
+
 **Machine Learning:** PyTorch · TensorFlow · OpenCV
 
 <br>
