@@ -1,29 +1,25 @@
-# Pedro Miguel Radwanski
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=140&color=0:FFA586,35:B51A2B,70:541A2E,100:161E2F" width="100%" alt="" />
 
-### Desenvolvedor Full-Stack
+Desenvolvedor full-stack focado em arquitetura de software, sistemas distribuídos, ML/Deep Learning e IA aplicada (SDD, Claude Code, harness).
 
-Desenvolvo do backend à interface, com foco em aplicações web, machine learning e visão computacional.
 Bacharelando em Ciência da Computação pela Universidade Positivo.
 
-**Aberto a oportunidades full-stack, backend e ML.**
+**Linguagens:** Java · C# · Python · Rust · TypeScript<br/>
+**Backend:** Spring Boot · .NET · PostgreSQL · RabbitMQ · Docker<br/>
+**Frontend:** React · Next.js<br/>
+**ML e IA:** PyTorch · TensorFlow · OpenCV · Claude Code
 
----
+<div align="center">
 
-#### Tecnologias
+<br/>
 
-**Linguagens:** Java · C# · Python · Rust · TypeScript · JavaScript · C · Assembly
+<picture>
+  <img src="./profile/snake.svg" alt="Gráfico de contribuições" width="100%" />
+</picture>
 
-**Frontend:** React · Next.js · Angular · Tailwind CSS
+<br/><br/>
 
-**Backend:** Spring Boot · .NET · PostgreSQL · REST APIs
+<a href="https://www.linkedin.com/in/pedro-radwanski/"><img src="https://img.shields.io/badge/LinkedIn-B51A2B?style=for-the-badge&logo=linkedin&logoColor=FFA586" alt="LinkedIn" /></a>
+<a href="mailto:pedromradi@gmail.com"><img src="https://img.shields.io/badge/Gmail-541A2E?style=for-the-badge&logo=gmail&logoColor=FFA586" alt="Gmail" /></a>
 
-**Machine Learning:** PyTorch · TensorFlow · OpenCV
-
-<br>
-
-<p align="left">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>&nbsp;<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>&nbsp;<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>&nbsp;<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"/>&nbsp;<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>&nbsp;<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>&nbsp;<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>&nbsp;<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>&nbsp;<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>&nbsp;<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/>&nbsp;<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/>&nbsp;<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-</p>
-
-<a href="https://www.linkedin.com/in/pedro-radwanski/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:pedromradi@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=white"/></a>
+</div>
