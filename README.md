@@ -4,7 +4,7 @@ Developer focused on cloud and software architecture. I also work with distribut
 
 Computer Science undergraduate at Universidade Positivo.
 
-Languages: Java · C# · Python · Rust · TypeScript<br/> Backend: Spring Boot · .NET · PostgreSQL · RabbitMQ · Docker<br/> Cloud: AWS · Google Cloud<br/> Frontend: React · Next.js<br/> ML and AI: PyTorch · TensorFlow · OpenCV · Claude Code
+Languages: Java · C# · Python · Rust · TypeScript<br/> Backend: Spring Boot · .NET · PostgreSQL · RabbitMQ · Docker<br/> Cloud: AWS · Google Cloud<br/> Frontend: Angular · React · Next.js<br/> ML and AI: PyTorch · TensorFlow · OpenCV · Claude Code
 
 <div align="center"> <br/> <picture> <img src="./profile/snake.svg" alt="Contribution graph" width="100%" /> </picture>
 
